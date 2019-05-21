@@ -10,5 +10,19 @@
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Fund</title>
+      <link>http://yanghua.name/funding/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://yanghua.name/funding/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;[&lt;sup&gt;2019&lt;/sup&gt;&amp;frasl;&lt;sub&gt;05&lt;/sub&gt; - &lt;sup&gt;2021&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt;]: Defence Science and Technology Agency (DSTA) Singapore, Co-I, £275,000&lt;/li&gt;
+&lt;li&gt;[&lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt; - &lt;sup&gt;2021&lt;/sup&gt;&amp;frasl;&lt;sub&gt;08&lt;/sub&gt;]: Anyvision (NI) Ltd, Co-I, £288,000&lt;/li&gt;
+&lt;li&gt;[&lt;sup&gt;2017&lt;/sup&gt;&amp;frasl;&lt;sub&gt;11&lt;/sub&gt; - &lt;sup&gt;2020&lt;/sup&gt;&amp;frasl;&lt;sub&gt;11&lt;/sub&gt;]: Diabetes UK (British Diabetic Association), Co-I, £199,431&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
